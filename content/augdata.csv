@@ -1,0 +1,192 @@
+,id,name,img,type
+0,TFT6_Augment_SalvageBin,Salvage Bin,,item
+1,TFT6_Augment_SlowAndSteady,March of Progress,,econ
+2,TFT6_Augment_PortableForge,Portable Forge,,item
+3,TFT6_Augment_BinaryAirdrop,Binary Airdrop,,item
+4,TFT6_Augment_Recombobulator,Recombobulator,,other
+5,TFT9_Augment_JeweledLotus,Jeweled Lotus II,,team
+6,TFT7_Augment_SacrificialPact,Cruel Pact,,other
+7,TFT6_Augment_ThreesCompany,Three's Company,,units
+8,TFT7_Augment_LivingForge,Living Forge,,item
+9,TFT7_Augment_AFK,AFK,,econ
+10,TFT7_Augment_LastStand,Last Stand,,team
+11,TFT6_Augment_RichGetRicher,Rich Get Richer,,econ
+12,TFT6_Augment_RichGetRicherPlus,Rich Get Richer+,,econ
+13,TFT7_Augment_BirthdayPresents,Birthday Present,,units
+14,TFT6_Augment_GachaAddict,Prismatic Ticket,,econ
+15,TFT9_Augment_SilverTicket,Golden Ticket,,econ
+16,TFT9_Augment_YoungAndWildAndFree,Young and Wild and Free,,other
+17,TFT9_Augment_CyberneticBulk2,Cybernetic Bulk II,,team
+18,TFT9_Augment_PhreakyFriday,Phreaky Friday,,item
+19,TFT9_Augment_CyberneticBulk1,Cybernetic Bulk I,,team
+20,TFT9_Augment_CapriciousForge,Capricious Forge,,item
+21,TFT9_Augment_CyberneticBulk3,Cybernetic Bulk III,,team
+22,TFT9_Augment_StarterKit,Starter Kit,,units
+23,TFT6_Augment_CyberneticUplink1,Cybernetic Uplink I,,team
+24,TFT6_Augment_CyberneticUplink2,Cybernetic Uplink II,,team
+25,TFT9_Augment_LongTimeCrafting,Latent Forge,,item
+26,TFT6_Augment_CyberneticUplink3,Cybernetic Uplink III,,team
+27,TFT9_Augment_Formation2,Unified Resistance II,,team
+28,TFT9_Augment_TonsOfStats,Tons of Stats!,,team
+29,TFT9_Augment_Formation1,Unified Resistance I,,team
+30,TFT9_Augment_SilverSpoon,Silver Spoon,,econ
+31,TFT9_Augment_CustomerIsAlwaysRight,Component Buffet,,item
+32,TFT9_Augment_IronAssets,Iron Assets,,item
+33,TFT9_Augment_OnARoll,On a Roll,,econ
+34,TFT9_Augment_StarsAreBorn,Stars are Born,,econ
+35,TFT9_Augment_ImpromptuInventions,Scrappy Inventions,,item
+36,TFT9_Augment_OneTwosThree,Ones Twos Three,,units
+37,TFT9_Augment_IndomitableWill,Indomitable Will,,team
+38,TFT9_Augment_FinalReserves,Final Reserves,,econ
+39,TFT9_Augment_MissedConnections,Missed Connections,,units
+40,TFT9_Augment_Infusion,Infusion,,team
+41,TFT9_Augment_RollTheDice,Roll The Dice,,item
+42,TFT9_Augment_WhatTheForge,What The Forge,,other
+43,TFT9_Augment_Sleightofhand,Sleight of Hand,,item
+44,TFT9_Augment_BloodMoney,Blood Money,,econ
+45,TFT9_Augment_ACutAbove,A Cut Above,,item
+46,TFT9_Augment_Idealism,Idealism,,item
+47,TFT9_Augment_HealingOrbsI,Healing Orbs I,,team
+48,TFT9_Augment_HealingOrbsII,Healing Orbs II,,team
+49,TFT9_Augment_GargantuanResolve,Gargantuan Resolve,,item
+50,TFT9_Augment_GiftsFromTheFallen,Gifts from the Fallen,,team
+51,TFT9_Augment_HedgeFund,Hedge Fund,,econ
+52,TFT9_Augment_HedgeFundPlus,Hedge Fund+,,econ
+53,TFT9_Augment_Martyr,Martyr,,team
+54,TFT9_Augment_LongDistanceRelationship2,Long Distance Pals,,team
+55,TFT9_Augment_Contagion,Contagion,,team
+56,TFT9_Augment_GreaterJeweledLotus,Jeweled Lotus III,,team
+57,TFT9_Augment_BronzeTicket,Silver Ticket,,econ
+58,TFT9_Augment_BuildingACollection,Buried Treasures I,,item
+59,TFT9_Augment_BuildingACollectionPlus,Buried Treasures II,,item
+60,TFT9_Augment_BuildingACollectionPlusPlus,Buried Treasures III,,item
+61,TFT9_Augment_KnowYourEnemy,Know Your Enemy,,team
+62,TFT6_Augment_TinyTitans,Tiny Titans,,econ
+63,TFT6_Augment_MetabolicAccelerator,Metabolic Accelerator,,econ
+64,TFT9_Augment_Harmacist1,Harmacist I,,team
+65,TFT9_Augment_Harmacist2,Harmacist II,,team
+66,TFT9_Augment_Harmacist3,Harmacist III,,team
+67,TFT6_Augment_PandorasItems,Pandora's Items,,item
+68,TFT9_Augment_PandorasRadiantBox,Pandora's Items III,,item
+69,TFT9_Augment_PandorasItems2,Pandora's Items II,,item
+70,TFT9_Augment_WhatDoesntKillYou,What Doesn't Kill You,,econ
+71,TFT9_Augment_ArmyBuilding,Team Building,,units
+72,TFT9_Augment_RiskyMoves,Risky Moves,,econ
+73,TFT9_Augment_NotToday,Not Today,,item
+74,TFT6_Augment_OneTwoFive,"One, Two, Five!",,econ
+75,TFT9_Augment_ReturnOnInvestment,Return on Investment,,team
+76,TFT9_Augment_DravenSpoilsOfWar,Spoils of War I,,econ
+77,TFT9_Augment_DravenSpoilsOfWar2,Spoils of War II,,econ
+78,TFT9_Augment_DravenSpoilsOfWar3,Spoils of War III,,econ
+79,TFT9_Augment_PumpingUp,Pumping Up I,,stack
+80,TFT9_Augment_PumpingUp2,Pumping Up II,,stack
+81,TFT9_Augment_PumpingUp3,Pumping Up III,,stack
+82,TFT9_Augment_TiniestTitan,Tiniest Titan,,econ
+83,TFT6_Augment_TradeSector,Trade Sector,,econ
+84,TFT6_Augment_MaxLevel10,Level Up!,,econ
+85,TFT9_Augment_DangerousToGoAlone,Parting Gifts,,item
+86,TFT9_Augment_YouHaveMySword,You Have My Sword,,item
+87,TFT9_Augment_YouHaveMyBow,You Have My Bow,,item
+88,TFT9_Augment_OldMansWalkingStick,Magic Wand,,item
+89,TFT9_Augment_EscortQuest,Escort Quest,,econ
+90,TFT9_Augment_ThreesACrowd,Three's a Crowd,,team
+91,TFT9_Augment_TwoHealthy,Two Healthy,,team
+92,TFT9_Augment_RedBuff,Blistering Strikes,,team
+93,TFT9_Augment_MoneyHealsAllWounds,Wellness Trust,,econ
+94,TFT9_Augment_LearningFromExperience2,Patient Study,,econ
+95,TFT6_Augment_RadiantRelics,Radiant Relics,,item
+96,TFT6_Augment_ItemGrabBag1,Item Grab Bag I,,item
+97,TFT9_Augment_CombatCaster,Combat Caster,,team
+98,TFT9_Augment_BlindingSpeed,Blinding Speed,,item
+99,TFT9_Augment_ImpenetrableBulwark,Impenetrable Bulwark,,item
+100,TFT9_Augment_UnleashedArcana,Unleashed Arcana,,item
+101,TFT9_Augment_OverwhelmingForce,Overwhelming Force,,item
+102,TFT7_Augment_Consistency,Consistency,,econ
+103,TFT7_Augment_LategameSpecialist,Lategame Specialist,,econ
+104,TFT7_Augment_CursedCrown,Cursed Crown,,other
+105,TFT6_Augment_TheGoldenEgg,The Golden Egg,,other
+106,TFT9_Augment_HighEndSector,Shopping Spree,,econ
+107,TFT9_Augment_BardPlaybook1,Caretaker's Ally,,units
+108,TFT9_Augment_BardPlaybook2,Caretaker's Favor,,item
+109,TFT9_Augment_BardPlaybook3,Caretaker's Chosen,,item
+110,TFT9_Augment_PhreakyFridayPlus,Phreaky Friday +,,item
+111,TFT9_Augment_InfernalContract,Infernal Contract,,econ
+112,TFT9_Augment_CuttingCorners,Cutting Corners,,econ
+113,TFT9_Augment_HedgeFundPlusPlus,Hedge Fund++,,econ
+114,TFT8_Augment_SalvageBinPlus,Salvage Bin+,,item
+115,TFT9_Augment_OneHundredDuckSizedHorses,Endless Hordes,,other
+116,TFT10_Augment_CrashTestDummies,Crash Test Dummies,,team
+117,TFT10_Augment_LuckyStreak,Lucky Streak,,econ
+118,TFT10_Augment_BlankSlate,Blank Slate,,econ
+119,TFT10_Augment_Determinedinvestors,Determined Investors,,item
+120,TFT7_Augment_BestFriends1,Best Friends I,,team
+121,TFT10_Augment_TwinTerror1,Twin Terror I,,team
+122,TFT7_Augment_BestFriends2,Best Friends II,,team
+123,TFT10_Augment_TwinTerror2,Twin Terror II,,team
+124,TFT10_Augment_LearningToSpell,Learning to Spell,,stack
+125,TFT6_Augment_Keepers1,Keepers I,,team
+126,TFT10_Augment_HeavyHitters,Heavy Hitters,,team
+127,TFT6_Augment_Keepers2,Keepers II,,team
+128,TFT10_Augment_BigGains,Big Gains,,stack
+129,TFT10_Augment_InspiringEpitaph,Inspiring Epitaph,,team
+130,TFT10_Augment_Vampirism,Vampirism I,,team
+131,TFT10_Augment_VampirismPlus,Vampirism II,,team
+132,TFT6_Augment_ForceOfNature,New Recruit,,team
+133,TFT10_Augment_ShockTreatment,Shock Treatment,,item
+134,TFT10_Augment_LowInterestRates,Low Interest Rates,,econ
+135,TFT10_Augment_SwitchingGears,Switching Gears,,econ
+136,TFT10_Augment_HeroicGrabBag,Heroic Grab Bag,,econ
+137,TFT10_Augment_ReachTheSummit,Reach the Summit,,econ
+138,TFT10_Augment_FullyAdapted,Fully Adapted,,item
+139,TFT9_Augment_Commander_FinalAscension,Final Ascension,,team
+140,TFT9_Augment_Commander_PartialAscension,Partial Ascension,,team
+141,TFT9_Augment_Commander_Ascension,Ascension,,team
+142,TFT6_Augment_ClearMind,Clear Mind,,econ
+143,TFT7_Augment_ClutteredMind,Cluttered Mind,,econ
+144,TFT10_Augment_GoodForSomething,Good For Something II,,econ
+145,TFT10_Augment_GoingLong,Going Long,,econ
+146,TFT10_Augment_SticksAndStones,Sticks And Stones,,team
+147,TFT10_Augment_Scapegoat,Scapegoat,,econ
+148,TFT10_Augment_GoodForSomethingSilver,Good For Something I,,econ
+149,TFT10_Augment_CrownGuarded,Crown Guarded,,item
+150,TFT10_Augment_SilverVeil,Silver Veil,,team
+151,TFT10_Augment_HelpIsOnTheWay,Help Is On The Way,,item
+152,TFT10_Augment_Stimpack,Stimpack,,item
+153,TFT9_Augment_SupportCache,Support Cache,,item
+154,TFT9_Augment_StationarySupport2,Stationary Support II,,team
+155,TFT7_Augment_LuckyGloves,Lucky Gloves,,item
+156,TFT7_Augment_LuckyGlovesPlus,Lucky Gloves+,,item
+157,TFT9_Augment_StationarySupport3,Stationary Support III,,team
+158,TFT9_Augment_TiniestTitanPlus,Tiniest Titan+,,econ
+159,TFT9_Augment_BalancedBudget2,Balanced Budget,,econ
+160,TFT9_Augment_Commander_TeamingUp2,Teaming Up II,,item
+161,TFT6_Augment_PortableForgePlus,Portable Forge+,,item
+162,TFT6_Augment_PortableForgePlusPlus,Portable Forge++,,item
+163,TFT9_Augment_Commander_TeamingUp1,Teaming Up I,,item
+164,TFT9_Augment_StationarySupport1,Stationary Support I,,team
+165,TFT9_Augment_Commander_RollingForDays,Rolling For Days I,,econ
+166,TFT9_Augment_BigGrabBag,Big Grab Bag,,item
+167,TFT9_Augment_JustKeepRolling,Frequent Flier,,econ
+168,TFT10_Augment_LittleBuddies,Little Buddies,,team
+169,TFT10_Augment_SpellweaverHalftimeShow,Raise the Tempo,,traits
+170,TFT10_Augment_RememberYourRoots,Remember Your Roots,,team
+171,TFT10_Augment_TalentSearch,Talent Search,,team
+172,TFT10_Augment_EmotionalConnection,Emotional Connection,,traits
+173,TFT10_Augment_MetalHeads,Metalheads,,traits
+174,TFT10_Augment_HeadlinerWoodlandCharm,Hologram,,team
+175,TFT10_Augment_RampingRhythm,Ramping Rhythm,,traits
+176,TFT10_Augment_BiggerShot,Bigger Shot,,traits
+177,TFT10_Augment_LiveForDanger,Live for Danger,,traits
+178,TFT10_Augment_TooBigToFail,Too Big to Fail,,traits
+179,TFT10_Augment_DoubleTheFunk,Double the Funk,,traits
+180,TFT10_Augment_GuardianHeroicPresence,Heroic Presence,,traits
+181,TFT10_Augment_Bedazzled,The Ol' Razzle Dazzle,,traits
+182,TFT10_Augment_RepetitiveRiffing,Extended Play,,traits
+183,TFT10_Augment_HeartCollector,Heartthrobs,,traits
+184,TFT10_Augment_ThatsJazzBaby,"That's Jazz, Baby!",,traits
+185,TFT10_Augment_SubmitToThePit,Submit to the Pit,,traits
+186,TFT10_Augment_Country_BountyHunters,Bounty Hunters,,traits
+187,TFT10_Augment_Superfan_ForTheFans,Do It for the Fans,,traits
+188,TFT10_Augment_Executioner_ExposeWeakness,Expose Weakness,,traits
+189,TFT10_Augment_InsertCoin,Insert Coin,,traits
+190,TFT10_Augment_BlingedOut,Blinged Out,,traits
